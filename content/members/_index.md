@@ -4,11 +4,11 @@ layout: "list"
 ---
 
 <style>
-  /* 기본 설정: 모바일 (세로 정렬) */
+  /* default: mobile (vertical) */
   .member-card {
     display: flex;
     flex-direction: column;
-    align-items: center; /* 모바일에서는 중앙 정렬 */
+    align-items: center; 
     gap: 20px;
     margin-bottom: 50px;
     text-align: center;
@@ -33,7 +33,7 @@ layout: "list"
     text-align: left; /* 본문은 읽기 편하게 왼쪽 정렬 */
   }
 
-  /* 데스크탑 설정: 화면 너비가 768px 이상일 때 (가로 정렬) */
+  /* desktop: when min-width is 768 px; horizontal */
   @media (min-width: 768px) {
     .member-card {
       flex-direction: row;
