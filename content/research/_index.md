@@ -4,28 +4,7 @@ layout: "list"
 ---
 
 <style>
-  /* 연구실 철학 강조 박스 */
-  .philosophy-box {
-    background-color: #f8f9fa;
-    border-left: 5px solid #444;
-    padding: 20px 25px;
-    margin: 30px 0 50px 0;
-    font-style: italic;
-    border-radius: 0 8px 8px 0;
-  }
-
-  .philosophy-tag {
-    display: inline-block;
-    background: #444;
-    color: white;
-    padding: 2px 10px;
-    font-size: 0.8rem;
-    font-style: normal;
-    font-weight: bold;
-    margin-bottom: 10px;
-    border-radius: 4px;
-  }
-
+ 
   /* 개별 연구 섹션 스타일 */
   .research-section {
     margin-bottom: 60px;
@@ -72,12 +51,7 @@ layout: "list"
   Our lab is interested in <strong>attentional systems</strong> which are sometimes efficient and sometimes not. 
   How can we promote attentional selection? Why do we sometimes miss targets in visual search? 
   We focus primarily on <strong>psychophysics</strong>, but we are open to integrating various methods (e.g., EEG, fMRI) to deeply understand the human mind.
-</div>
-
-<div class="philosophy-box">
-  <div class="philosophy-tag">LAB PHILOSOPHY</div>
-  "Our lab’s philosophy is rooted in <strong>'use-inspired basic research'</strong>."
-  <div style="font-size: 0.85rem; color: #777; margin-top: 5px;">(Currently refining this vision to better reflect our evolving goals.)</div>
+  Our lab’s philosophy is rooted in <strong>'use-inspired basic research'</strong>.
 </div>
 
 <div class="research-section">
@@ -87,8 +61,8 @@ layout: "list"
   </div>
   <div class="research-keywords">
     <span class="keyword-tag">#VisualSearch</span>
-    <span class="keyword-tag">#StatisticalRegularities</span>
-    <span class="keyword-tag">#AttentionalLimitation</span>
+    <span class="keyword-tag">#StatisticalLearning</span>
+    <span class="keyword-tag">#AttentionalErrors</span>
   </div>
 </div>
 
