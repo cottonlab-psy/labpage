@@ -83,9 +83,7 @@ layout: "list"
 <div class="research-section">
   <h2>1. Efficiency and Inefficiency of Attentional System</h2>
   <div class="research-content">
-    The attentional system develops various strategies to process information efficiently, but these strategies are not always successful. When searching for target(s) in a display, attention is necessary to find what we are looking for, and sometimes it enables learning of statistical regularities to facilitate the search process. 
-    <br><br>
-    However, we often miss items even when they are attended to (i.e., <em>look-but-fail-to-see</em>), revealing the inherent limitations of human attention. Our lab explores the role of attention in balancing efficiency and inefficiency. We seek to find ways to maximize efficiency while minimizing the costs of inefficiency.
+    The attentional system develops various strategies to process information efficiently, but these strategies are not always successful. When searching for target(s) in a display, attention is necessary to find what we are looking for, and sometimes it enables learning of statistical regularities to facilitate the search process. However, we often miss items even when they are attended to (i.e., <em>look-but-fail-to-see</em>), revealing the inherent limitations of human attention. Our lab explores the role of attention in balancing efficiency and inefficiency. We seek to find ways to maximize efficiency while minimizing the costs of inefficiency.
   </div>
   <div class="research-keywords">
     <span class="keyword-tag">#VisualSearch</span>
