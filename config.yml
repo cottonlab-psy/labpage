@@ -14,13 +14,13 @@ menu:
     main:
         - name: RESEARCH
           url: research/
-          weight: 5 
+          weight: 1 
         - name: MEMBERS
           url: members/
-          weight: 5 
+          weight: 2 
         - name: PUBLICATIONS
           url: publications/
-          weight: 2
+          weight: 3
         - name: JOIN US
           url: joinus/
           weight: 4 
